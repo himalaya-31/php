@@ -1,0 +1,26 @@
+<producers>
+  <producer>
+    <name>Himalaya</name>
+    <age>20</age>
+    <show>
+      <showname>H show</showname>
+      <showdate>4 Oct 2017</showdate>
+    </show>
+    <show>
+      <showname>Another H show</showname>
+      <showdate>10 Oct 2017</showdate>
+    </show>
+  </producer>
+  <producer>
+    <name>Punnet</name>
+    <age>20</age>
+    <show>
+      <showname>P show</showname>
+      <showdate>12 Oct 2017</showdate>
+    </show>
+    <show>
+      <showname>Another P show</showname>
+      <showdate>18 Oct 2017</showdate>
+    </show>
+  </producer>
+  </producers>
